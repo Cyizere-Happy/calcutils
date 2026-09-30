@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/calcutils/__init__.py
+src/calcutils/operations.py
+src/calcutils_ndahimanaj.egg-info/PKG-INFO
+src/calcutils_ndahimanaj.egg-info/SOURCES.txt
+src/calcutils_ndahimanaj.egg-info/dependency_links.txt
+src/calcutils_ndahimanaj.egg-info/top_level.txt

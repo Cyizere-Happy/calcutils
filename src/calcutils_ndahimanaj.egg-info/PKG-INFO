@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: calcutils_ndahimanaj
+Version: 0.1.0
+Summary: A simple student tutorial math utility package
+Author-email: Cyizere-Happy <happycyizere69@gmail.com>
+Project-URL: Homepage, https://github.com/yourusername/calcutils
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# calcutils
+
+A simple math utility package built for a Python packaging lab.
+
+```python
+from calcutils import add, multiply, average
+add(10, 25)                 # 35
+average([10, 20, 30, 40])   # 25.0
+```
